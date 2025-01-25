@@ -69,5 +69,5 @@ The following steps were performed:
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/JaiKumar000/zomato-data-analysis.git
+   git clone https://github.com/Jaikumar2406/zomato-data-analysis.git
    cd zomato-data-analysis
